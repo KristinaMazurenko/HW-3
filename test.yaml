@@ -1,0 +1,7 @@
+address:
+  city: Anytown
+  state: Anystate
+  street: 123 Main St
+  zip: '12345'
+age: 34
+name: John Smith

@@ -1,0 +1,9 @@
+{
+    "name": "Kristina Mazurenko",
+    "age": 23,
+    "address": {
+        "country": "Russia",
+        "street": "Krasnaya",
+        "city": "Krasnodar"
+    }
+}
